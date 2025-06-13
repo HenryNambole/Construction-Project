@@ -405,7 +405,6 @@ html {
     font-size: 20px;
     padding-left: 10px;
     word-spacing: 2px;
-    
 }
 
 .hero-middle-button {
@@ -442,6 +441,10 @@ html {
     }
 
     .hero-subtitle {
+        font-size: 18px;
+    }
+
+    .hero-checkmark span {
         font-size: 18px;
     }
 
